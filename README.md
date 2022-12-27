@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samridhi030&label=Profile%20views&color=0e75b6&style=flat" alt="samridhi030" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 Skills- **Python** , **MySQL** , **PowerBI** , **Tableau** , **Advance Excel** , **Statistics**
 
 - 📫 How to reach me **03samridhi@gmail.com**
 
